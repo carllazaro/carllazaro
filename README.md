@@ -5,7 +5,7 @@
                     NNNNXXX				@carllazaro
                   X0OOkxxddxk			---------
               X0kdolooo ddoo			Uptime: 4 years
-             X0xollllo					Programming languages: Python, Java, C++, SQL
+             X0xollllo					Programming languages: Python, Java, SQL
             Kxollllod					OS: Windows, Linux
           X0dllllokK					Editor: VSCode
          XOolllox0						Hobby: Gaming, Programming
