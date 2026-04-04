@@ -3,13 +3,13 @@
  <div style="background-color:#003300; color:red; padding:20px; border-radius:10px; font-family: 'Courier New', Courier, monospace; white-space: pre;">
     <pre style="text-align: center; margin: 0;">
 @carllazaro
----------
+--------------------------------------------------------------------------
 Uptime: 4 years
 Programming languages: Python, Java, SQL
 OS: Windows, Linux
 Editor: VSCode
 Hobby: Gaming, Programming
---------
+--------------------------------------------------------------------------
 Email: carllazaro12345@gmail.com
 LinkedIn: Carl Lazaro - https://www.linkedin.com/in/carl-lazaro-603279333/
 Facebook: Carl Lazaro
