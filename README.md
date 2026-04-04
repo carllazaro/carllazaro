@@ -9,8 +9,6 @@ Programming languages: Python, Java, SQL
 OS: Windows, Linux
 Editor: VSCode
 Hobby: Gaming, Programming
-     
-contacts
 --------
 Email: carllazaro12345@gmail.com
 LinkedIn: Carl Lazaro - https://www.linkedin.com/in/carl-lazaro-603279333/
