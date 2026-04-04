@@ -9,6 +9,7 @@ Programming languages: Python, Java, SQL
 OS: Windows, Linux
 Editor: VSCode
 Hobby: Gaming, Programming
+     
 contacts
 --------
 Email: carllazaro12345@gmail.com
