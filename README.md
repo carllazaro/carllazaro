@@ -2,22 +2,19 @@
 <!-- ASCII Art Block -->
  <div style="background-color:#003300; color:red; padding:20px; border-radius:10px; font-family: 'Courier New', Courier, monospace; white-space: pre;">
     <pre style="text-align: center; margin: 0;">
-                    NNNNXXX				@carllazaro
-                  X0OOkxxddxk			---------
-              X0kdolooo ddoo			Uptime: 4 years
-             X0xollllo					Programming languages: Python, Java, SQL
-            Kxollllod					OS: Windows, Linux
-          X0dllllokK					Editor: VSCode
-         XOolllox0						Hobby: Gaming, Programming
-        XOollloO				
-       N0dllldO             XK0
-      NXxllloO           XOxdk
-      N0olllx          XKkdo
-      NOollo        KOxoo				contacts
-      N0olld      Oxddlo				--------
-      NXkllldkkxdolllo					Email: carllazaro12345@gmail.com
-       NXOxolllllloo					LinkedIn: Carl Lazaro - https://www.linkedin.com/in/carl-lazaro-603279333/
-		8888888888						Facebook: Carl Lazaro
+@carllazaro
+---------
+Uptime: 4 years
+Programming languages: Python, Java, SQL
+OS: Windows, Linux
+Editor: VSCode
+Hobby: Gaming, Programming
+
+contacts
+--------
+Email: carllazaro12345@gmail.com
+LinkedIn: Carl Lazaro - https://www.linkedin.com/in/carl-lazaro-603279333/
+Facebook: Carl Lazaro
     </pre>
 </div>
 <!--
