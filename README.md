@@ -13,6 +13,8 @@ Hobby: Gaming, Programming
 Email: carllazaro12345@gmail.com
 LinkedIn: Carl Lazaro - https://www.linkedin.com/in/carl-lazaro-603279333/
 Facebook: Carl Lazaro
+     <img width="962" height="344" alt="image" src="https://github.com/user-attachments/assets/36bdec3f-0456-4e06-a44f-bde5b49469b2" />
+
     </pre>
 </div>
 <!--
