@@ -2,7 +2,8 @@
 <!-- ASCII Art Block -->
  <div style="background-color:#003300; color:red; padding:20px; border-radius:10px; font-family: 'Courier New', Courier, monospace; white-space: pre;">
     <pre style="text-align: center; margin: 0;">
-<img width="1798" height="655" alt="@carllazaro -------------------------------------------------------------------------- Uptime 4 years Programming languages Python, Java, SQL OS Windows, Linux Editor VSCode Hobby Gaming, Programm" src="https://github.com/user-attachments/assets/0d0d9a41-7f6a-45df-9694-8a4ccdc3f324" />
+<img width="1154" height="412" alt="image" src="https://github.com/user-attachments/assets/dc95b014-fcca-4ef8-8419-3a040c7f71e3" />
+
 </div>
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carl-lazaro-603279333/)
