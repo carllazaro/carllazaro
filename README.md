@@ -2,18 +2,7 @@
 <!-- ASCII Art Block -->
  <div style="background-color:#003300; color:red; padding:20px; border-radius:10px; font-family: 'Courier New', Courier, monospace; white-space: pre;">
     <pre style="text-align: center; margin: 0;">
-@carllazaro
---------------------------------------------------------------------------
-Uptime: 4 years
-Programming languages: Python, Java, SQL
-OS: Windows, Linux
-Editor: VSCode
-Hobby: Gaming, Programming
---------------------------------------------------------------------------
-Email: carllazaro12345@gmail.com
-LinkedIn: Carl Lazaro - https://www.linkedin.com/in/carl-lazaro-603279333/
-Facebook: Carl Lazaro
-     <img width="962" height="344" alt="image" src="https://github.com/user-attachments/assets/36bdec3f-0456-4e06-a44f-bde5b49469b2" />
+<img width="1798" height="655" alt="@carllazaro -------------------------------------------------------------------------- Uptime 4 years Programming languages Python, Java, SQL OS Windows, Linux Editor VSCode Hobby Gaming, Programm" src="https://github.com/user-attachments/assets/0d0d9a41-7f6a-45df-9694-8a4ccdc3f324" />
 
     </pre>
 </div>
